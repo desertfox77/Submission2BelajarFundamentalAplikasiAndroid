@@ -1,0 +1,9 @@
+<resources>
+        <string name="app_name" translatable="false">SubDua</string>
+        <string name="name" translatable="false">Github Search</string>
+        <string name="fragmentfollowers">Followers</string>
+        <string name="fragmentfollowing">Following</string>
+        <string name="search">Search Here</string>
+        <string name="back">Back</string>
+        <string name="loading">Loading</string>
+</resources>

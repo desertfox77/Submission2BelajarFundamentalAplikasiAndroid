@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubDua</string>
+    <string name="fragmentfollowers">Followers</string>
+    <string name="fragmentfollowing">Following</string>
+    <string name="search">Search Here</string>
+    <string name="loading">Loading</string>
+    <string name="back">Back</string>
+</resources>
